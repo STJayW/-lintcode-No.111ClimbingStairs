@@ -1,5 +1,5 @@
 # -lintcode-No.111ClimbingStairs
-use dynamicprogramming save the problem
+use dynamicprogramming solve the problem
 
 Description :
     You are climbing a stair case. It takes n steps to reach to the top.
